@@ -1,7 +1,8 @@
 tsconfig.json
 .DS_Store
-*.log
 node_modules
 .github
 .changeset
-/src
+src
+pnpm-lock.yaml
+vite.config.ts
