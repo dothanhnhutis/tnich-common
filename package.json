@@ -1,6 +1,6 @@
 {
-  "name": "tncommon",
-  "version": "0.0.0",
+  "name": "@tnmrs/common",
+  "version": "0.0.1",
   "description": "",
   "private": false,
   "main": "./dist/index.js",
