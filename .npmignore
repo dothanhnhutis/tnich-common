@@ -1,0 +1,7 @@
+tsconfig.json
+.DS_Store
+*.log
+node_modules
+.github
+.changeset
+/src
