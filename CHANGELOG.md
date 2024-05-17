@@ -1,5 +1,11 @@
 # @tnmrs/common
 
+## 0.0.4
+
+### Patch Changes
+
+- d14a484: test version
+
 ## 0.0.3
 
 ### Patch Changes
