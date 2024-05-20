@@ -10,11 +10,11 @@
     "test": "vitest run",
     "lint": "tsc",
     "build": "tsup src/index.ts --format cjs,esm --dts",
-    "ci": "npm run lint && npm run test && npm run build",
-    "release": "npm run ci && npx changeset publish"
+    "ci": "pnpm run lint && pnpm run test && pnpm run build",
+    "release": "pnpm run ci && changeset publish"
   },
   "keywords": [],
-  "author": "Thanh Nhut",
+  "author": "Thành Nhựt",
   "license": "MIT",
   "dependencies": {
     "amqplib": "^0.10.4",
