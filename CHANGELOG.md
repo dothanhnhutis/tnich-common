@@ -1,5 +1,11 @@
 # @tnmrs/common
 
+## 0.0.5
+
+### Patch Changes
+
+- 0d271b6: add middleware
+
 ## 0.0.4
 
 ### Patch Changes
